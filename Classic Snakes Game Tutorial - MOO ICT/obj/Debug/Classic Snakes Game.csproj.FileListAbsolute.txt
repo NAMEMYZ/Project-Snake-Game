@@ -1,0 +1,10 @@
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\bin\Debug\Classic Snakes Game Tutorial - MOO ICT.exe.config
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\bin\Debug\Classic Snakes Game Tutorial - MOO ICT.exe
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\bin\Debug\Classic Snakes Game Tutorial - MOO ICT.pdb
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Classic Snakes Game.csproj.AssemblyReference.cache
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Classic_Snakes_Game.Form1.resources
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Classic_Snakes_Game_Tutorial___MOO_ICT.Properties.Resources.resources
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Classic Snakes Game.csproj.GenerateResource.cache
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Classic Snakes Game.csproj.CoreCompileInputs.cache
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Classic Snakes Game Tutorial - MOO ICT.exe
+C:\Users\chawa\Source\Repos\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Classic Snakes Game Tutorial - MOO ICT.pdb
