@@ -1,15 +1,16 @@
-# Create a Classic Snakes Game in Visual Studio
+# Classic Snake Game (C# WinForms)
 
-It use bulid in I try it to not use.
+A desktop Snake game in C# / Windows Forms, extended with a **bot** that moves around the board — run into it and the game is over.
 
-Credit :
+## What I added
+- `Bot` class: a randomly moving opponent with bounds checking and collision detection against the snake
+- Started replacing the built-in collections with my own data structures (`CustomLinkedList`, `ArrayList`, `List`, `Collection`) to practise data-structure implementation — *work in progress*
 
-Link to the Website - 
+## Tech
+C# · .NET Framework 4.7.2 · Windows Forms
 
+## Run
+Open `Classic Snakes Game.csproj` in Visual Studio and press **F5**.
 
-https://www.mooict.com/c-tutorial-how-to-make-a-classic-snakes-game-with-windows-form-and-visual-studio/
-
-Full Video Tutorial on the official Channel - 
-
-
-[![YouTube Video for Classic Snake Game Tutorial in C#](http://img.youtube.com/vi/TzaCn1ZPalI/0.jpg)](http://www.youtube.com/watch?v=TzaCn1ZPalI "How to create a classic snake game in windows form and c#")
+## Credit
+Base game follows the [MOO ICT Classic Snake tutorial](https://www.mooict.com/c-tutorial-how-to-make-a-classic-snakes-game-with-windows-form-and-visual-studio/).
